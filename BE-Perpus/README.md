@@ -17,7 +17,7 @@ Follow these steps to set up the project:
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-repository.git
+   git clone https://github.com/aziznurulloh8910/peminjaman-buku.git
    cd your-repository
    ```
 
